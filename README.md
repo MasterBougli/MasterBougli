@@ -60,3 +60,27 @@
 <img src="https://raw.githubusercontent.com/MasterBougli/MasterBougli/output/snake.svg" alt="Snake animation" />
 
 ###
+
+## À propos
+
+Je développe des sites web, des outils Windows et des expériences sous Unreal Engine 5. Mon travail actuel couvre aussi bien des applications locales orientées streaming que des plugins UE5 réutilisables et plusieurs jeux en préproduction.
+
+- Web et e-commerce : Next.js, JavaScript, PHP, Shopify et intégrations sur mesure.
+- Unreal Engine 5 : C++, Blueprint, gameplay, outils Editor et documentation technique.
+- Applications et outils : C#, Python, Rust, WebRTC, OBS et services réseau locaux.
+- Jeux en cours : survie coopérative, idle game de gestion et factory game alchimique.
+
+## Projets récents
+
+- [BouCamPhoneServ](https://github.com/MasterBougli/BouCamPhoneServ) : caméra et micro de téléphones dans OBS via WebRTC local.
+- [BouVideoServ](https://github.com/MasterBougli/BouVideoServ) : serveur vidéo local léger orienté RTMP.
+- [BouNodeKiller](https://github.com/MasterBougli/BouNodeKiller) : outil Windows pour repérer et arrêter les processus Node.js.
+- [BouRemoteServ](https://github.com/MasterBougli/BouRemoteServ) : télécommande web locale pour Windows.
+- **BlankForPlugins** *(privé)* : atelier UE5.8 regroupant mes plugins Crafting, Dialogue, Interaction, Inventory, Notification et Time & Weather.
+- **Grimoire de l’Île flottante** *(privé)* : idle game de gestion low poly sous UE5.
+- **FactoryProject** *(privé)* : factory game 3D d’automatisation alchimique sous UE5.
+- **IslandDrift** *(privé)* : jeu de survie coopératif sous UE5, prévu jusqu’à 8 joueurs.
+
+## Portfolio
+
+Retrouvez mes services, mes projets et la documentation de mes plugins sur [bougli.fr](https://bougli.fr).
