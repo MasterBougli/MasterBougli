@@ -84,3 +84,5 @@ Je développe des sites web, des outils Windows et des expériences sous Unreal 
 ## Portfolio
 
 Retrouvez mes services, mes projets et la documentation de mes plugins sur [bougli.fr](https://bougli.fr).
+
+**Soutenir Bougli** · [Faire un don PayPal via Streamlabs](https://streamlabs.com/bouglitv) · [Soutenir sur Patreon](https://www.patreon.com/cw/Bougli)
